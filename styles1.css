@@ -41,7 +41,7 @@ body {
   margin-bottom: 25px;
   }
   .about-description { 
-   width: 500px;
+   width: 610px;
     font-style: normal;
   font-weight: normal;
   font-size: 18px;
@@ -214,8 +214,8 @@ body {
   .education-name{
   font-style: normal;
   font-weight: bold;
-  font-size: 19px;
-  line-height: 20px;
+  font-size: 17px;
+  line-height: 16px;
   color: #FB6D3A;
   }
   .education-name-privat{
